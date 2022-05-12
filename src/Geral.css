@@ -1,0 +1,11 @@
+body
+{
+    margin: 0;
+    font-family:'Roboto';
+    background-size: 100%;
+}
+
+.container
+{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+/* CSS da Caixa */
+.caixa{
+    background: rgba(187, 39, 39, 0.493);
+    border: 2px darkred solid;
+    border-radius: 15px;
+    width: 70%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    margin-top: 20px;
+    width: 500px;
+    height: 560px;
+    border: 2px #FFF solid;
+    border-radius: 15px;
+}
+
+.perguntas{
+    margin-top: 20px;
+    width: 800px;
+    height: 560px;
+    border: 2px #FFF solid;
+    border-radius: 15px;
+}
